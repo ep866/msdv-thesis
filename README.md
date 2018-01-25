@@ -1,11 +1,11 @@
 # msdv-thesis
 
 
-#Literature Review
+# Literature Review
 
 -
-###Capitalism's toxic assumptions
-#####Poole, E. (2015). Capitalism's toxic assumptions. London: Bloomsbury.
+### Capitalism's toxic assumptions
+##### Poole, E. (2015). Capitalism's toxic assumptions. London: Bloomsbury.
 
 -
 
@@ -16,8 +16,8 @@ The book can help me understand better the tensions that we observe in society a
 <br>
 
 -
-###Happiness and goodness: philosophical reflections on living well 
-#####Cahn, Steven M. Happiness and goodness: philosophical reflections on living well. New York: Columbia University Press, 2015.
+### Happiness and goodness: philosophical reflections on living well 
+##### Cahn, Steven M. Happiness and goodness: philosophical reflections on living well. New York: Columbia University Press, 2015.
 
 -
 
@@ -28,8 +28,8 @@ Because the book looks at different perspectives from literature, history, and t
 <br>
 
 -
-###The brain and the meaning of life
-#####Thagard, P. (2010). The brain and the meaning of life. Princeton: Princeton Univ. Press.
+### The brain and the meaning of life
+##### Thagard, P. (2010). The brain and the meaning of life. Princeton: Princeton Univ. Press.
 
 -
 
@@ -40,8 +40,8 @@ I am hoping this book will help me look at the question of happiness and moralit
 <br>
 
 -
-###Tracking the meaning of life
-#####Lurie, Y. (2006). Tracking the meaning of life. Columbia, Mo.: University of Missouri Press.
+### Tracking the meaning of life
+##### Lurie, Y. (2006). Tracking the meaning of life. Columbia, Mo.: University of Missouri Press.
 
 -
 
